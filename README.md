@@ -1,4 +1,5 @@
 # Sports Value aponta que dívida dos clubes de futebol crescem no Brasil
+## Rodrigo de Brito Prates
 A realidade financeira dos clubes brasileiros da elite do futebol profissional tem, em linhas gerais, se tornado mais complicada. Essa constatação pode ser aferida pela leitura do [artigo jornalístico](https://www.espn.com.br/futebol/artigo/_/id/6913191/disparada-corinthians-estudo-mostra-maiores-dividas-capacidade-clubes-pagarem-veja-lugar-seu-time-cada-ranking) publicado pela ESPN Brasil no dia 5 de maio, que analisa o estudo da empresa Sports Value conduzindo à seguinte percepção:
 > "As dívidas do futebol brasileiro que somavam R$ 6,9 bilhões em 2018 saltaram para R$ 7,3 bilhões em 2019".
 
