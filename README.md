@@ -8,6 +8,6 @@ Ao utilizar um indicador que pondere as dívidas do clubes em relação às resp
 
 Por fim, observa-se como ponto negativo relativo ao estudo em questão que não se contemplem os clubes cujos balanços financeiros ainda não foram divulgados, bem como a utilização de projeções e números extraoficiais, de maneira que seja um retrato incompleto do cenário administrativo e financeiro dos clubes, embora saliente-se a pertinência das análise feitas e do aproveitamento dos dados em nome da produção científica.
 
-___Obs.:O balanço do Cruzeiro fora divulgado dia 20/05/2020, evidenciando um déficit de 394 milhõs de reais para o exercício 2019, de forma que a projeção de 89 milhões de reais deficitários seja apenas cerca de 22% do real prejuízo da má administração dos dirigentes do clube, que culminou no rebaixamento para a Série B 2020.
+___Obs.: O balanço do Cruzeiro fora divulgado dia 20/05/2020, evidenciando um déficit de 394 milhõs de reais para o exercício 2019, de forma que a projeção de 89 milhões de reais deficitários seja apenas cerca de 22% do real prejuízo da má administração dos dirigentes do clube, que culminou no rebaixamento para a Série B 2020___
 
 ~~Obs².: Ressalta-se que os balanços de 2019 de Atlético e Cruzeiro não compõe a análise, de forma a contribuir com a ilusão dos torcedores dos gigantes mineiros de que as finanças estavam equilibradas.~~
